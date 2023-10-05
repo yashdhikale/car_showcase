@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="relative">
         <Navbar />
-        <h1>git test</h1>
+        
         {children}
         <Footer />
         
